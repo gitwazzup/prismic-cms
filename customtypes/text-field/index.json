@@ -1,0 +1,9 @@
+{
+  "id": "text-field",
+  "label": "TextField",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
